@@ -1,3 +1,4 @@
+<img src="https://picsum.photos/1920/1080" width="100%" height="790">
 # About me:
 <p align="justify">👦 My name's Luiz Henrique, and currently I live in São Paulo, Brazil.<p>
 <p align="justify">💻 My skills: ReactJS, NextJS and TypeScript.<p>

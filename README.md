@@ -5,9 +5,11 @@
 
  
 ## My amazing projects
-🎥 [**Cineapp**](https://github.com/lui7henrique/cineapp):  A web app based on streaming services, made with NextJS, Styled Components, The Movie Database, Firebase Authentication and Realtime Database.
+🎥 [**Cineapp**](https://github.com/lui7henrique/cineapp):  Web app based on streaming services, made with NextJS, Styled Components, The Movie Database, Firebase Authentication and Realtime Database.
  
-🗺 [**Future Trips**](https://github.com/lui7henrique/futuretrips): A simple website to show places I want to visit, using NextJS, GraphQL, GraphCMS and React Leaflet. 
+🗺 [**Future Trips**](https://github.com/lui7henrique/futuretrips): Simple website to show places I want to visit, using NextJS, GraphQL, GraphCMS and React Leaflet. 
+ 
+🦸‍♀️ [**Marvel Characters**](https://github.com/lui7henrique/marvel-characters): Portal about Marvel Universe, like super heroes, villains, their hqs, events, and more. Made with NextJS, Typescript, Styled Components and Marvel API. 
  
 ## Stats:
 > **OBS**: it means absolutely **nothing** 🙄

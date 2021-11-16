@@ -4,7 +4,7 @@
 <p align="justify">🧠 Now i'm studying: NodeJS, ReactNative, Elixir and GraphQL.<p>
 
  
-## My amazing projects:
+## My projects:
 🎥 [**Cineapp**](https://github.com/lui7henrique/cineapp):  Web app based on streaming services, made with NextJS, Styled Components, The Movie Database, Firebase Authentication and Realtime Database.
  
 🗺 [**Future Trips**](https://github.com/lui7henrique/futuretrips): Simple website to show places I want to visit, using NextJS, GraphQL, GraphCMS and React Leaflet. 

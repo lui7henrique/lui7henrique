@@ -4,7 +4,7 @@
 <p align="justify">🧠 Now i'm studying: NodeJS, Elixir & GraphQL <p>
 
  
-## My projects:
+## Some of my projects:
 👩‍🚀 [**Nasagram**](https://nasa-gram.vercel.app/): Every day a different photo or video of the universe, with a brief explanation from a professional astronomer!
  
 🎥 [**Cineapp**](https://github.com/lui7henrique/cineapp):  Web app based on streaming services, made with NextJS, Styled Components, The Movie Database, Firebase Authentication and Realtime Database.

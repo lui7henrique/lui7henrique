@@ -1,11 +1,11 @@
 # About me:
 <p align="justify">👦 My name's Luiz Henrique, and currently I live in São Paulo, Brazil.<p>
-<p align="justify">💻 My skills: ReactJS, NextJS and TypeScript (just front-end).<p>
-<p align="justify">🧠 Now i'm studying: NodeJS, ReactNative, Elixir & GraphQL <p>
+<p align="justify">💻 My skills: ReactJS, ReactNative, NextJS and TypeScript.<p>
+<p align="justify">🧠 Now i'm studying: NodeJS, Elixir & GraphQL <p>
 
  
 ## My projects:
-👩‍🚀 [**Nasagram**](https://nasa-gram.vercel.app/): very day a different photo or video of the universe, with a brief explanation from a professional astronomer!
+👩‍🚀 [**Nasagram**](https://nasa-gram.vercel.app/): Every day a different photo or video of the universe, with a brief explanation from a professional astronomer!
  
 🎥 [**Cineapp**](https://github.com/lui7henrique/cineapp):  Web app based on streaming services, made with NextJS, Styled Components, The Movie Database, Firebase Authentication and Realtime Database.
  

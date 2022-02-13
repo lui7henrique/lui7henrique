@@ -1,7 +1,7 @@
 # About me:
 <p align="justify">👦 My name's Luiz Henrique, and currently I live in São Paulo, Brazil.<p>
 <p align="justify">💻 My skills: ReactJS, NextJS, ReactNative and TypeScript.<p>
-<p align="justify">🧠 Now i'm studying: NodeJS, Elixir & GraphQL <p>
+<p align="justify">🧠 Now i'm studying: NodeJS, Elixir & GraphQL. <p>
 
  
 ## Some of my projects:

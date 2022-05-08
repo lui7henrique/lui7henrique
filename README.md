@@ -10,7 +10,7 @@ Front-end developer @hub xp.
 
 Hi, my name's Luiz henrique, but can just call me by **Henrique**. 
 
-I'm 19 years old and currently I'm work as software developer, focused on front-end and mobile. I develop amazing projects using wonderful technologies, such as **ReactJS**, **NextJS**, **Typescript**, **GraphQL** and others tech's and tools. 
+I'm 19yo and currently I'm work as software developer, focused on front-end and mobile. I develop amazing projects using wonderful technologies, such as **ReactJS**, **NextJS**, **Typescript**, **GraphQL** and others tech's and tools. 
 
 
 > _“It’s better to hang out with people better than you. Pick out associates whose behavior is better than yours and you’ll drift in that direction.”_

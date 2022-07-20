@@ -1,4 +1,3 @@
-# 👨‍💻  Luiz Henrique
 Front-end developer @hub xp.
 
 

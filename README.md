@@ -9,4 +9,4 @@ Front-end developer @hub xp.
 
 Hey, I'm Luiz Henrique! 👋
 
-I'm 19yo Front-end developer from Brazil 🇧🇷. I develop some projects with amazing technologies, such as **ReactJS**, **NextJS**, **Typescript**, **GraphQL** and others.
+I'm 19yo Front-end developer from Brazil. I develop some projects with amazing technologies, such as **ReactJS**, **NextJS**, **Typescript**, **GraphQL** and others.
